@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\StudentDetail\StudentDetail\bin\Debug\StudentDetail.exe.config
+C:\Users\Dell\source\repos\StudentDetail\StudentDetail\bin\Debug\StudentDetail.exe
+C:\Users\Dell\source\repos\StudentDetail\StudentDetail\bin\Debug\StudentDetail.pdb
+C:\Users\Dell\source\repos\StudentDetail\StudentDetail\obj\Debug\StudentDetail.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\StudentDetail\StudentDetail\obj\Debug\StudentDetail.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\StudentDetail\StudentDetail\obj\Debug\StudentDetail.exe
+C:\Users\Dell\source\repos\StudentDetail\StudentDetail\obj\Debug\StudentDetail.pdb
